@@ -76,7 +76,6 @@ The baseline's confusion matrix (10,000 test reviews):
 Implicit-Sentiment-Analysis-on-IMDb-dataset/
 ├── maincode.ipynb                     # RoBERTa + BiLSTM + Attention: training, evaluation, Gradio demo
 ├── EDA_UROP.ipynb                     # Data exploration, word frequencies, TF-IDF baseline
-├── UROP_reference_researchpaper.pdf   # Reference paper
 ├── assets/                            # Charts used in this README
 └── README.md
 ```
